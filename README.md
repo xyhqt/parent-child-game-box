@@ -2,6 +2,8 @@
 
 按照《亲子游戏盒 PRD V1.1》实现的静态网页。`docs/` 是 GitHub Pages 发布目录。
 
+**在线试玩：** https://xyhqt.github.io/parent-child-game-box/
+
 ## GitHub Pages
 
 仓库 Settings → Pages → Build and deployment → Deploy from a branch，选择 `main` 分支的 `/docs` 目录，保存后即可访问 GitHub Pages 地址。
